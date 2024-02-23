@@ -1,8 +1,6 @@
 # Airbnb Clone
 
-![Project Image](nowinproduction.png) <!-- If you have a logo or project image, add it here -->
-
-> A clone of Airbnb built for portfolio as a web development project.
+> A clone of Airbnb built for portfolio as a web development project build with nextjs 14.
 
 ---
 
