@@ -8,3 +8,7 @@ import getFavoriteListings from "@/app/actions/getFavoriteListings";
 
 import FavoritesClient from "./FavoritesClient";
 
+
+  const listings = await getFavoriteListings();
+  const currentUser = await getCurrentUser();
+
