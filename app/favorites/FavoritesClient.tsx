@@ -13,5 +13,9 @@ const FavoritesClient: React.FC<FavoritesClientProps> = ({
   listings,
   currentUser
 }) => {
+return (
+    <Container>
 
+    </Container>
 }
+
